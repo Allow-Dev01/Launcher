@@ -1,0 +1,17 @@
+{
+    "URL_CLIENT" : "http://cc33734.tmweb.ru/client.zip",
+    "URL_FILES" : "http://cc33734.tmweb.ru/files.zip",
+    "URL_LITE_CACHE" : "http://cc33734.tmweb.ru/LUXE.7z",
+    "URL_FULL_CACHE" : "http://stg.mimas.feralhosting.com/st/gm/full_cache.zip",
+    "URL_VERSIONS" : "http://cc33734.tmweb.ru/v1_versions.json",
+    "URL_GAME_SETTINGS" : "http://cc33734.tmweb.ru/gta_sa.set",
+    "URL_NEWS" : "http://cc33734.tmweb.ru/v1_news.json",
+    "URL_SERVERS": "http://cc33734.tmweb.ru/v1_servers.json",
+    "URL_VK": "https://vk.com/dagplanetmta",
+    "URL_NOTIFICATIONS": "http://cc33734.tmweb.ru/v0_notifications.json",
+    "URL_MODPACK": "http://cc33734.tmweb.ru/kytak.zip",
+    "URL_BACKUP": "http://cc33734.tmweb.ru/kytakkzip",
+    "URL_TEST_CLIENT": "http://santrope-download.react.group/st/cl/client20.zip",
+    "URL_CONFIG": "http://cc33734.tmweb.ru/v1_config.json",
+    "URL_LAUNCHER": "http://cc33734.tmweb.ru/launcher.apk"
+}

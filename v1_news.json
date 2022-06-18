@@ -1,0 +1,19 @@
+{
+    "news": [
+        {
+            "title": "Мы открылись!",
+            "content": "Мы открылись!",
+            "date": "01-01-2022",
+            "image": "https://www.dropbox.com/s/ygg6vws1602l1k1/fon.png?dl=1",
+            "image_id": "8"
+        }
+    ],
+       "actual_news": {
+        "title": "ПРОМОКОД!",
+        "content": "\n\nВ честь ОТКРЫТИЕ ПРОЕКТА:\n\n#OPEN\n\nКОТОРЫЙ ДАСТ ИГРОКАМ 1000000$!",
+		"description": " ",
+        "image": "http://marvel50.beget.tech/for_launcher.png",
+		"visibility": true,
+        "image_id": "3"
+    }
+}

@@ -1,0 +1,12 @@
+{
+	"client": 1,
+	"testclient": 41,
+	"files": [
+		"url-to-arhive",
+		"http://marvel50.beget.tech/grafon.zip"
+	],
+	"launcher": 308,
+	"modpack": [
+		"url-to-arhive"
+	]
+}
