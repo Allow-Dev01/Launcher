@@ -1,0 +1,27 @@
+[
+    {
+      "ip": "185.169.134.83",
+      "port": 7777,
+      "x2": true,
+      "name": "Trinity RPG",
+      "online": 478,
+      "maxonline": 1000
+    },
+    {
+      "ip": "185.169.134.84",
+      "port": 7777,
+      "x2": true,
+      "name": "Trinity RP 01",
+      "online": 618,
+      "maxonline": 1000
+    },
+    {
+      "ip": "185.169.134.85",
+      "port": 7777,
+      "x2": true,
+      "name": "Trinity RP 02",
+      "online": 521,
+      "maxonline": 1000
+    }
+]
+ 
